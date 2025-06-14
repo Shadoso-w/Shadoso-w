@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [iFBI: Lightweight Breed and Individual Recognition for Cats and Dogs](https://github.com/Shadoso-w/iFBI-Lightweight-Breed-and-Individual-Recognition-for-Cats-and-Dogs)
 
-- 🌱 I’m currently learning **Zero-shot Detection, Model Compression**
+- 🌱 I’m currently learning **Zero-shot Detection, Generative Model, Visual-Language Model, Model Compression**
 
 - 📝 I regularly write articles on [https://blog.csdn.net/weixin_45797443?spm=1000.2115.3001.5343](https://blog.csdn.net/weixin_45797443?spm=1000.2115.3001.5343)
 
